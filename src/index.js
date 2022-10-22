@@ -37,7 +37,7 @@ start.addEventListener("click", () => {
 
 bob.addEventListener("click", () => {
   alert(
-    "Retaking video will result in loss of work. If you want to keep your work, I would recommend saving your video."
+    "Retaking video will result in loss of work. If you want to keep your work, It is recommended to save your work/download your video!"
   );
 
   window.location.reload();
